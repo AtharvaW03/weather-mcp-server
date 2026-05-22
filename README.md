@@ -31,7 +31,3 @@ cd weather-mcp-server
 ```
 
 The server starts in STDIO transport mode. Connect any MCP-compatible client to use the exposed tools.
-
-## Author
-
-[Atharva W](https://github.com/AtharvaW03)
