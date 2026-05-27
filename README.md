@@ -4,8 +4,8 @@ A Model Context Protocol (MCP) server built with Spring Boot and Spring AI that 
 
 ## Tools
 
-- **getWeatherForecastByLocation** -- Returns a detailed weather forecast for a given latitude/longitude.
-- **getAlerts** -- Returns active weather alerts for a given US state (two-letter code, e.g. `NY`, `CA`).
+- **getWeatherForecastByLocation** Returns a detailed weather forecast for a given latitude/longitude.
+- **getAlerts** Returns active weather alerts for a given US state (two-letter code, e.g. `NY`, `CA`).
 
 ## Tech Stack
 
